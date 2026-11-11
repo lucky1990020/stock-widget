@@ -7,6 +7,14 @@ Built with C#, Windows App SDK and Adaptive Cards.
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)
 ![Windows App SDK](https://img.shields.io/badge/Windows%20App%20SDK-2.5.1-5C2D91)
 
+## 展示效果
+
+<p align="center">
+  <img src="docs/preview.png" alt="A股行情小组件大尺寸预览" width="420">
+  <br>
+  <sub>大尺寸效果：4 个指数 + 3 只自选股 + 当日分时走势</sub>
+</p>
+
 ## 功能
 
 - 显示上证指数、深证成指、创业板指、科创50
