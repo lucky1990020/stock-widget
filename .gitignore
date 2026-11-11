@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+publish/
+.vs/
+
+# Local package/signing material
+*.msix
+*.pfx
+*.cer
+*.password
+
+# Local logs and debug captures
+*.log
+shot-*.png
+
+# User/IDE files
+*.user
+*.suo
